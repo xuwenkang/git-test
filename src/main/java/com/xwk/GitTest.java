@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello github");
         System.out.println("hello hot fix");
         System.out.println("push to github");
+        System.out.println("manual edit on github");
     }
 }
